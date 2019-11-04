@@ -1,4 +1,4 @@
-# PROJECT NAME
+# SimformRnReduxThunk
 
 The repository for _SimformRnReduxThunk_.
 

@@ -1,4 +1,4 @@
-package com.simformrnreduxthunk;
+package com.simform.rnreduxthunk;
 
 import com.facebook.react.ReactActivity;
 

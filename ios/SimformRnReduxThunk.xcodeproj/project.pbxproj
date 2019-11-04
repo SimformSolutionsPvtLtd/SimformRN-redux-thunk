@@ -264,7 +264,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.simform.SimformRnReduxThunk;
+				PRODUCT_BUNDLE_IDENTIFIER = com.simform.rnreduxthunk;
 				PRODUCT_NAME = SimformRnReduxThunk;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -283,7 +283,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.simform.SimformRnReduxThunk;
+				PRODUCT_BUNDLE_IDENTIFIER = com.simform.rnreduxthunk;
 				PRODUCT_NAME = SimformRnReduxThunk;
 				VERSIONING_SYSTEM = "apple-generic";
 			};

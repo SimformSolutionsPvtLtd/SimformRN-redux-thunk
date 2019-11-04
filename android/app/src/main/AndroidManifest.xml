@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.simformrnreduxthunk">
+  package="com.simform.rnreduxthunk">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

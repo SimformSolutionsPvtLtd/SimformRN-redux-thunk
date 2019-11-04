@@ -35,4 +35,5 @@ target 'SimformRnReduxThunk' do
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
   pod 'RNGestureHandler', :podspec => '../node_modules/react-native-gesture-handler/RNGestureHandler.podspec'
 
+  use_native_modules!
 end

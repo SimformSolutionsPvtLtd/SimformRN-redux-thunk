@@ -1,4 +1,4 @@
-package com.simformrnreduxthunk;
+package com.simform.rnreduxthunk;
 
 import android.app.Application;
 import android.content.Context;
