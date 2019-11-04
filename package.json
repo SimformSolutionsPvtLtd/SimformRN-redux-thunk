@@ -1,0 +1,48 @@
+{
+  "name": "SimformRnReduxThunk",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ./app",
+    "fixcode": "eslint --fix ./app",
+    "android": "npm run lint && react-native run-android",
+    "ios": "npm run lint && react-native run-ios",
+    "pods": "cd ios && pod install && cd .."
+  },
+  "lint-staged": {
+    "app/**/*.js": [
+      "npm run fixcode"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "dependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.3",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-native-reanimated": "^1.2.0",
+    "react-navigation": "^4.0.10",
+    "react-navigation-redux-helpers": "^3.0.2",
+    "react-navigation-stack": "^1.10.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/runtime": "^7.5.0",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.8.0",
+    "eslint": "^6.0.1",
+    "husky": "^3.0.3",
+    "lint-staged": "^9.2.1",
+    "jest": "^24.1.0",
+    "metro-react-native-babel-preset": "^0.51.1",
+    "react-test-renderer": "16.8.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
