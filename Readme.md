@@ -4,9 +4,9 @@ The repository for _SimformRnReduxThunk_.
 
 **Project Name**: `SimformRnReduxThunk`
 
-**Bundle Id**: `com.simform.simformrnreduxthunk`
+**Bundle Id**: `com.simform.rnreduxthunk`
 
-**Package Name**: `com.simform.simformrnreduxthunk`
+**Package Name**: `com.simform.rnreduxthunk`
 
 [![license](https://img.shields.io/badge/LICENSE-MIT%20License-green?style=for-the-badge&colorB=FE2E2E)](https://opensource.org/licenses/mit-license.html)
 [![language](https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorB=FE2E2E&label=Framework&query=jest.preset&url=https%3A%2F%2Fraw.githubusercontent.com%2FSoFriendly%2Fyac-mobile%2FReleaseBranch%2Fpackage.json%3Ftoken%3DACCU4SJ6TGYZYKMWFCRNEQS5MYKTG)](https://facebook.github.io/react-native/)
